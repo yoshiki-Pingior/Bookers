@@ -122,4 +122,9 @@ lavel {
  display: table;
 }
 
-
+.flash {
+ color: green;
+ margin: 33px;
+ line-height: 18px;
+ font-size: 13px;
+}
